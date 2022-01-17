@@ -1,28 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="halloween_bg.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="halloweem bg0000" x="0" y="0" width="2114" height="1075"/>
-	<SubTexture name="halloweem bg lightning strike0000" x="2124" y="0" width="2114" height="1075" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0001" x="4248" y="0" width="2114" height="1000" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0002" x="0" y="1085" width="2114" height="1090"/>
-	<SubTexture name="halloweem bg lightning strike0003" x="2124" y="1085" width="2114" height="1081" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0004" x="4248" y="1085" width="2114" height="1081" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0005" x="4248" y="1085" width="2114" height="1081" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0006" x="0" y="2185" width="2114" height="1081" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0007" x="2124" y="2185" width="2114" height="1081" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0008" x="4248" y="2185" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0009" x="0" y="3276" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0010" x="2124" y="3276" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0011" x="4248" y="3276" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0012" x="0" y="4366" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0013" x="2124" y="4366" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0014" x="4248" y="4366" width="2114" height="1080" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0015" x="0" y="5456" width="2114" height="1079" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0016" x="2124" y="5456" width="2114" height="1079" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0017" x="4248" y="5456" width="2114" height="1079" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0018" x="0" y="6545" width="2114" height="1079" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0019" x="2124" y="6545" width="2114" height="1078" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0020" x="4248" y="6545" width="2114" height="1078" frameX="0" frameY="0" frameWidth="2114" frameHeight="1090"/>
-	<SubTexture name="halloweem bg lightning strike0029" x="0" y="0" width="2114" height="1075"/>
+	<SubTexture name="halloweem bg0000" x="0" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0001" x="0" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0002" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0003" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0004" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0005" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0006" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0007" x="3626" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0008" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0009" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0010" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0011" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0012" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0013" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0014" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0015" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0016" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0017" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0018" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0019" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0020" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0021" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0022" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0023" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0024" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0025" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0026" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0027" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0028" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0029" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0030" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0031" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0032" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0033" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0034" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0035" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0036" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0037" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0038" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0039" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0040" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0041" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0042" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0043" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0044" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0045" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0046" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0047" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0048" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0049" x="0" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0050" x="0" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0051" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0052" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0053" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0054" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0055" x="1813" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0056" x="3626" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0057" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0058" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0059" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0060" x="5439" y="0" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0061" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0062" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0063" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0064" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0065" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0066" x="0" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0067" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0068" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0069" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0070" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0071" x="3626" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0072" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0073" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0074" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0075" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0076" x="1813" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0077" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0078" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0079" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0080" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0081" x="5439" y="1135" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0082" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0083" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0084" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0085" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0086" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0087" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0088" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0089" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0090" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0091" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0092" x="1813" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0093" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0094" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0095" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0096" x="0" y="2270" width="1813" height="1135"/>
+	<SubTexture name="halloweem bg0097" x="0" y="2270" width="1813" height="1135"/>
 </TextureAtlas>
+
+
